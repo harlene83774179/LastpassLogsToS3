@@ -1,5 +1,6 @@
 Greetings :)
 This script is used to pull audit events from Lastpass API via rest, written entirely in Python (3.9).
+This can be further used to forward logs from S3 to a SIEM (supported by QRadar for example).
 
 General notes: 
 A: The parameters you will need to fill are:
